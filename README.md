@@ -1,5 +1,5 @@
 # dicoding-first-pwa
-Jika ingin mengetahui hasil dari kode diatas, download terlebih dahulu kode tersebut kemudian jalankan menggunakan local web server yang kalian gunakan.
+Jika ingin mengetahui hasil dari kode diatas, download terlebih dahulu kode tersebut, kemudian jalankan menggunakan local web server yang kalian gunakan.
 Local web server yang saya gunakan untuk menjalankan kode program diatas adalah "Web Server for Chrome" yang merupakan ekstensi dari browser Google Chrome.
 "Web Server for Chrome" mudah sekali digunakan, berikut langkah-langkahnya:
   1. Download terlebih dahulu kode program diatas, lalu di-ekstrak
