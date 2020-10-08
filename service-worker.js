@@ -1,5 +1,5 @@
 // Nama cache
-const CACHE_NAME = "first-example-pwa-v2";
+const CACHE_NAME = "first-example-pwa-v5";
 
 // Daftar asset dan halaman 
 var urltoCache = [
@@ -12,8 +12,8 @@ var urltoCache = [
     "/css/materialize.min.css",
     "/js/materialize.min.js",
     "/js/nav.js",
-    "/images/icon-192x192.png",
-    "/images/icon-512x512.png"
+    "/images/icon-192.png",
+    "/images/icon-512.png"
 ];
 
 // Registrasi cache
