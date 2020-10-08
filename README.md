@@ -2,9 +2,9 @@
 Merupakan aplikasi modifikasi hasil latihan pertama dari Modul 2 tentang "Application Shell" yang disimpan di repo dicoding-first-example-spa.
 Pada aplikasi ini ditambahkan dua teknologi web browser yaitu Service Worker dan Cache agar aplikasi yang dibuat dapat berjalan pada kondisi perangkat offline atau tanpa koneksi.
 Berikut ini informasi tentang modifikasi aplikasi yang dilakukan pada latihan kedua dari Modul 2 tentang Application Shell :
-  (+) Menambahkan script pada file index.html untuk me-registrasikan Service Worker dan mendaftarkan Web App Manifest
-  (+) Menambahkan file service-worker.js untuk menyimpan dan menggunakan asset dari cache serta menghapus cache lama 
-  (+) Menambahkan file manifest.json untuk menyimpan informasi seputar aplikasi seperti nama aplikasi, gambar icon, pengembang, warna tema, dsb
+  - Menambahkan script pada file index.html untuk me-registrasikan Service Worker dan mendaftarkan Web App Manifest
+  - Menambahkan file service-worker.js untuk menyimpan dan menggunakan asset dari cache serta menghapus cache lama 
+  - Menambahkan file manifest.json untuk menyimpan informasi seputar aplikasi seperti nama aplikasi, gambar icon, pengembang, warna tema, dsb
 
 Jika ingin mengetahui hasil dari kode diatas, download terlebih dahulu kode tersebut, kemudian jalankan menggunakan local web server yang kalian gunakan.
 Local web server yang saya gunakan untuk menjalankan kode program diatas adalah "Web Server for Chrome" yang merupakan ekstensi dari browser Google Chrome.
